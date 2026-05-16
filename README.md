@@ -19,6 +19,7 @@ The solutions are organized by problem difficulty and topic.
 | 0001 | Two Sum         | Easy       | [Java](./1-two-sum/two-sum.java)                                 | [LeetCode #1](https://leetcode.com/problems/two-sum/)                                |
 | 0002 | Add Two Numbers | Medium     | [Java](./2-add-two-numbers/add-two-numbers.java)                 | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/)                      |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium     | [Java](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) | [LeetCode #153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 0003 | Longest Substring Without Repeating Characters | Medium | [Java](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 
 ---
 
