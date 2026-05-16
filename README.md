@@ -14,11 +14,11 @@ A curated repository of my solutions to various LeetCode algorithmic and data st
 
 The solutions are organized by problem difficulty and topic.
 
-| # | Problem Title | Difficulty | Solution Link                    | Source Link |
-|---|---|---|----------------------------------|---|
-| 0001 | Two Sum | Easy | [Java](./1-two-sum/two-sum.java) | [LeetCode #1](https://leetcode.com/problems/two-sum/) |
-| 0020 | Valid Parentheses | Easy | [Java](./solutions/ValidParentheses.java) | [LeetCode #20](https://leetcode.com/problems/valid-parentheses/) |
-| 0146 | LRU Cache | Medium | [Java](./solutions/LRUCache.java) | [LeetCode #146](https://leetcode.com/problems/lru-cache/) |
+| #    | Problem Title   | Difficulty | Solution Link                                                    | Source Link                                                                          |
+|------|-----------------|---|------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 0001 | Two Sum         | Easy | [Java](./1-two-sum/two-sum.java)                                 | [LeetCode #1](https://leetcode.com/problems/two-sum/)                                |
+| 0002 | Add Two Numbers | Easy | [Java](./2-add-two-numbers/add-two-numbers.java)                 | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/)                      |
+| 0153 | Find Minimum in Rotated Sorted Array | Medium | [Java](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) | [LeetCode #153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 ---
 
