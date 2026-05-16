@@ -1,0 +1,75 @@
+# ==========================================
+# ☕ Java & Compiled Code
+# ==========================================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+bin/
+build/
+target/
+out/
+
+# ==========================================
+# 💻 IDE & Editor Specific Files
+# ==========================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# ==========================================
+# 🛠️ Build Tools (Optional, if you use them)
+# ==========================================
+
+# Maven
+report.txt
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+/build/
+
+# ==========================================
+# 🍏 🪟 Operating System Files
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+
+# Windows
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.trash/
